@@ -74,6 +74,6 @@ supported by a number of grants from the National Science Foundation.
 Contact Information 
 -------------------
 
-For reporting bugs or questions about functionality contact `Andreas Stathopoulos`_
+For reporting bugs or questions about functionality contact `Andreas Stathopoulos`_.
 
 .. _`Andreas Stathopoulos`: http://www.cs.wm.edu/~andreas/
